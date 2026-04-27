@@ -1,0 +1,1 @@
+<?php header("Location: digital_tests.php"); exit;
